@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,redis,js,ts,nodejs,react,git,docker,linux,azure,python" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,angular,azure,bitbucket,bootstrap,c,cs,cpp,css,docker,dotnet,eclipse,git,github,githubactions,gitlab,html,mongodb,mysql,nodejs,notion,postgres,postman,powershell,pycharm,py,react,spring,sqlite,ts,unity,visualstudio,vscode" />
 </p>
 
 ---
